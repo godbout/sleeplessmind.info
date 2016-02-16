@@ -1,2 +1,7 @@
 *.sublime-project
 *.sublime-workspace
+
+nanoc/output
+nanoc/tmp
+
+crash.log
