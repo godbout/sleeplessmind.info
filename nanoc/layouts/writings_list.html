@@ -10,7 +10,7 @@
     <body>
         <%= render '/_header.*' %>
         <section id="content">
-            <ol>
+            <ol id="writings-list">
              <% sorted_articles.each do |article| %>
                 <% if @item[:title] != article[:title] %>
                     <li>

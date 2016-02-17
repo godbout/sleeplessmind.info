@@ -10,7 +10,7 @@
     <body>
         <%= render '/_header.*' %>
         <section id="content">
-            <article>
+            <article class="writings">
                 <h1><%= sorted_articles.first[:title] %></h1>
                 <section class="article-content">
                     <%= sorted_articles.first.compiled_content %>
