@@ -2,34 +2,61 @@
 title: About
 created_at: 2012-06-22
 ---
+
+# some updates
+
+This page was written for the first time in 2012. Since then a few things have changed, like, for example, my ability to fall asleep. Started <time datetime="2015-10-01" class="timeago"></time>, I am now able to fall asleep within 10 to 20 minutes. I wake up after 5 or 6 hours naturally, so I don't consider myself as having chronic insomnia anymore. I still have bad days, rarely, but when it happens, my mind is (thankfully) as furious as ever.
+
+More importantly (to me), all the dates that you can find here are relative to the time you are reading this page. That means that if you read "5 years ago" it is really 5 years ago from NOW. Not from 2012.
+
+I believe it is important for this page to be as atemporal as possible. I always find it annoying when I read something and I have no idea what the dates are referring to. It makes me feel disconnected from what is being said, from the content. I cannot trust it. I do NOT want you to experience that here.
+
+All the other information on this page has been updated to reflect my situation as of February 2016.
+
+# About
+
 # the writings
-I've recently discovered that I've been insomniac for the past 15 years, according to [_Wikipedia_](http://en.wikipedia.org/wiki/Insomnia#Non-pharmacological). "Recently discovered" because when I was 14 I thought everybody had to wait 1 or 2 hours to fall asleep. Since that age, I added 1 more hour to fall alseep every year.
+
+In 2012 I discovered that I had been insomniac for the previous 15 years, according to [Wikipedia](http://en.wikipedia.org/wiki/Insomnia#Non-pharmacological). "Discovered" because when I was 14 I thought everybody had to wait 1 or 2 hours to fall asleep. Since that age, I added 1 more hour to fall asleep every year.
 
 My mind makes up stories on its own. What you can read on this website is some of those stories. It's a pure dump of the pictures, the colors, and the emotions that fill my head at the moment. Nothing is arranged to make the essays look good, as I'm not really conscious when they are getting typed. My hands are on the keyboard, and it just happens. 
 
-There are only a few stories printed here, but there have been at least a billion. I just keep being optimistic, every night, that I will be able to fall asleep so I don't get up from my bed. Maybe later, I will write one story a day.
+There are only a few stories printed here, but there has been at least a billion. I just keep being optimistic, every night, that I will be able to fall asleep so I don't get up from my bed. Maybe later, I will write one story a day.
 
 # About 
 
 # me
 
-I'm Guillaume Leclerc. I was born in France and I lived there until the day before my 25th birthday. I've traveled through Asia for a year before settling down in Macau, <time datetime="2008-01-07" class="timeago"></time>. I'm married to a beautiful and crazy artist from Hong Kong. I love art in general. I did some oil paitings and some drawings when I was younger, but my heart definitely belongs to music. I had the chance for 3 years to compose, tour and release an album with [_WhyOceans_](http://www.whyoceans.com/) and to have some really awesome side projects ([_Within These Walls_](http://www.youtube.com/watch?v=TD4kFIp_pqQ), [_I See You Watching Me While I'm Watching You_](http://www.facebook.com/media/set/?set=a.10150406959032961.363208.51685087960&type=3)) with [_Forget the G_](http://forgettheg.com/).  
-I pay my bills by doing web/software/apps development and design by day.
+My name is Guillaume Leclerc and I was born in France. I lived [there](https://www.google.com/maps/place/Lorraine,+France/@48.7114575,5.1433292,8z/data=!3m1!4b1!4m2!3m1!1s0x47949753fe1190d5:0x10a5fb99a3724f0!5m1!1e4) and in a beautiful island in the Caribbean called [Martinique](https://www.google.com/maps/place/Martinique/@12.1269488,-67.8846427,6.15z/data=!4m2!3m1!1s0x8c6aa0f90066070d:0xe1001b1217afe7b0!5m1!1e4) until the day before my 25th birthday. I've traveled through Asia for a year before settling down in Macau, <time datetime="2008-01-07" class="timeago"></time>.
 
-You can find me on [_twitter_](http://twitter.com/#!/godbout) but I barely post anything there. I was using twitter to follow people related to the topics I'm interested in but lately the whole thing feels like war, so now I end up unfollowing a lot of people. But I can still grab some DMs there if you feel like.
+I'm married to a beautiful and crazy artist from Hong Kong. I love art in general. I did some oil paintings and some drawings when I was younger, and I've composed, performed and released music, mainly in Asia, where I had the chance to be a part of [WhyOceans](http://www.whyoceans.com/) and to build fantastic side projects ([Within These Walls](http://www.youtube.com/watch?v=TD4kFIp_pqQ), [I See You Watching Me While I'm Watching You](http://www.facebook.com/media/set/?set=a.10150406959032961.363208.51685087960&type=3)) with [Forget the G](http://forgettheg.com/).
 
-The best though is probably to follow me on instagram before Facebook shuts it down: [_@ki_yom_](http://web.stagram.com/n/ki_yom/), or to drop me an email: [_&#103;&#117;&#105;&#108;&#108;&#064;&#115;&#108;&#101;&#101;&#112;&#108;&#101;&#115;&#115;&#109;&#105;&#110;&#100;&#046;&#105;&#110;&#102;&#111;_](&#109;&#097;&#105;&#108;&#116;&#111;:&#103;&#117;&#105;&#108;&#108;&#064;&#115;&#108;&#101;&#101;&#112;&#108;&#101;&#115;&#115;&#109;&#105;&#110;&#100;&#046;&#105;&#110;&#102;&#111;).
+But it seems that my heart belongs to writing, and helping others. So, <time datetime="2014-05-21" class="timeago"></time>, I've started a blog called [From OK to Great](http://fromoktogreat.com/) where I hopefully help a few billions of people by sharing how I've learned to handle my life through changes of mindsets, beliefs and behaviors, all backed up by science. There's a [Facebook page](https://www.facebook.com/fromoktogreat/) and a [Twitter account](https://twitter.com/fromoktogreat) if you feel like throwing an eye or two.
+
+I used to pay my bills by working in a [University](http://www.usj.edu.mo/en/) for which I've developed and designed their University Management System. On the 1st of January 2016, I've started my own company. So now I pay my bills by pouring money out of my saving account.
+
+You can find me on my personal [Twitter](http://twitter.com/#!/godbout). I don't share a lot on there but when I do it's about psychology, cooking, art, education, rock climbing, nature and other things that inspire me. No dick pics, promise.
+
+I also have a personal Facebook account and almost everything I post there is made public because why not. My username is [Dacoconutz Brothers](https://www.facebook.com/dacoconutz.brothers) because also why not.
+
+And of course you can also follow me on [Instagram](https://www.instagram.com/ki_yom/) before Facebook shuts it down.
+
+Or drop me a nice and sweet email: [&#103;&#117;&#105;&#108;&#108;&#064;&#115;&#108;&#101;&#101;&#112;&#108;&#101;&#115;&#115;&#109;&#105;&#110;&#100;&#046;&#105;&#110;&#102;&#111;](&#109;&#097;&#105;&#108;&#116;&#111;:&#103;&#117;&#105;&#108;&#108;&#064;&#115;&#108;&#101;&#101;&#112;&#108;&#101;&#115;&#115;&#109;&#105;&#110;&#100;&#046;&#105;&#110;&#102;&#111;)
 
 # About 
 
 # insomnia and more
 
-Insomnia is [_bad_](http://en.wikipedia.org/wiki/File:Complications_of_insomnia.svg), but it also brought me some amazing experiences. 2 years ago in my worst period I was sleeping 1 to 2 hours, every 2 days. I started experiencing hallucinations: walls started moving, trees were calling my name, and invisible girls were crying next to me. I also started losing memory in a strange way: I would be in the street or in a coffee shop and having no idea how and why I was being there, like if my brain had just shut down for a couple of minutes. All by being sober.
+Insomnia is [bad](http://en.wikipedia.org/wiki/File:Complications_of_insomnia.svg), but it also brought me some amazing experiences. <time datetime="2012-06-22" class="timeago"></time> in my worst period I was sleeping 1 to 2 hours, every 2 days. I started experiencing hallucinations: walls started moving, trees were calling my name, and invisible girls were crying next to me. I also started losing memory in a strange way: I would be in the street or in a coffee shop and having no idea how and why I was being there, like if my brain had just shut down for a couple of minutes. All while being sober.
 
-But the most amazing has been something I was not able to define at the time: [_ego death_](http://en.wikipedia.org/wiki/Ego_death). The connection, the energy, the stillness, the peace of mind, the joy, the confidence, the truth, the light. It is hard to explain but you've probably already experienced it quickly when, in front of such a beautiful landscape, everything seems still and you just want to cry because all you can see and feel is love. I've been living with this feeling for 2 weeks. I feel very lucky to have been able to experience that at that time, and even more to have been able to reach that state later on, while I wasn't sleep deprived. And I believe it is the key to a great future. So I have to thank insomnia for that.
+But the most amazing has been something I was not able to define at the time: [ego death](http://en.wikipedia.org/wiki/Ego_death). The connection, the energy, the stillness, the peace of mind, the joy, the confidence, the truth, the light. It is hard to explain but you've probably already experienced it quickly when, in front of such a beautiful landscape, everything seems still and you just want to cry because all you can see and feel is love. I've been living with this feeling for 2 weeks. I feel very lucky to have been able to experience that at the time, and even more to have been able to reach that state later on, while I wasn't sleep deprived. And I believe it is the key to a great future. So I have to thank insomnia for that.
 
 # About
 
 # the website, for the geeks
 
-Basically I fell in love with [_Justin Hileman's website_](http://justinhileman.info/) so my colophon is very similar to [_his_](http://justinhileman.info/colophon/). The website is statically generated by [_nanoc_](http://nanoc.stoneship.org/), the layout is done through [_LESS stylesheets_](http://lesscss.org/) and everything is beautifully hosted by [_Linode_](http://www.linode.com/?r=4d38402454871106521686b453c6758100f1b1d6). The fonts are coming from [_Vic Fieger_](http://www.vicfieger.com/) and are called UnderwoodChampionRegular. They greatly fit the feeling I wanted to give here, though they're missing special characters like the ellipsis and the em dash. All the writings have been typed using [_iA Writer_](http://www.iawriter.com/) from [_iA_](http://informationarchitects.net/) which is one the most beautiful experience I had using a software. I'm pretty sure it adds something special to my writings. Hopefully I don't forget anyone here, but let me know if you find I'm using something from you without the credit. I'll be more than happy to add you.
+Basically I fell in love with [Justin Hileman's website](http://justinhileman.info/) so my colophon is very similar to [his](http://justinhileman.info/colophon/). The website is statically generated by [nanoc](http://nanoc.ws/), the layout is done through [LESS stylesheets](http://lesscss.org/) and everything is beautifully hosted by [Linode](http://www.linode.com/?r=4d38402454871106521686b453c6758100f1b1d6). The fonts were built by [Vic Fieger](http://www.vicfieger.com/) and are called UnderwoodChampionRegular. They greatly fit the feeling I want to  give here, though they're missing special characters like the ellipsis and the em dash. All the writings have been typed using [iA Writer](https://ia.net/writer/mac/) from [iA](https://ia.net/) which is one the most wonderful experience I had using a software.
+
+Hopefully I'm not forgetting anyone. If it is the case please drop me an email and I'll be more than happy to throw your name into the mix.
+
+Thanks for reading.
