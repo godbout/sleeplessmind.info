@@ -4,7 +4,7 @@ compile '/writings.html' do
   layout '/writings_list.html'
 end
 
-compile '{/writings/*.md,/about.md}' do
+compile '{/writings/*.md,/about.md,/beers.md}' do
   filter :kramdown
   layout '/writings.html'
 end

@@ -88,3 +88,9 @@ checks:
     # E.g.:
     #   exclude_files: ['blog/page']
     exclude_files: []
+
+deploy:
+  production:
+    kind: rsync
+    dst: "guill@sleeplessmind.info:/srv/www/sleeplessmind.info/public_html"
+    options: ['-aP', '--delete-after']
