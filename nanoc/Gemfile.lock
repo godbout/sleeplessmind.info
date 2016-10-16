@@ -3,6 +3,7 @@ GEM
   specs:
     adsf (1.2.1)
       rack (>= 1.0.0)
+    builder (3.2.2)
     coderay (1.1.0)
     colored (1.2)
     commonjs (0.2.7)
@@ -61,6 +62,7 @@ PLATFORMS
 
 DEPENDENCIES
   adsf
+  builder
   guard-nanoc
   kramdown
   less
@@ -69,4 +71,4 @@ DEPENDENCIES
   yuicompressor
 
 BUNDLED WITH
-   1.11.2
+   1.12.5

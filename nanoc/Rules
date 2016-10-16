@@ -14,9 +14,7 @@ compile '/assets/{img,fonts}/*' do
   write output
 end
 
-compile '/assets/icons/favicon.ico' do
-  write '/favicon.ico'
-end
+passthrough '/favicon.ico'
 
 compile '/assets/js/*' do
   filter :yui_compressor, :type => :js
@@ -29,6 +27,16 @@ compile '/assets/style/*.less' do
   filter :yui_compressor, :type => :css
   output = '/css' + item.identifier.without_ext.to_s.sub('/assets/style', '') + '.css'
   write output
+end
+
+compile '/sitemap.*' do
+  filter :erb
+  write '/sitemap.xml'
+end
+
+compile '/robots.*' do
+  filter :erb
+  write '/robots.txt'
 end
 
 ignore '/assets/semantic/**/*'
