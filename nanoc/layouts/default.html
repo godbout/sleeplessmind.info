@@ -16,7 +16,11 @@
                     <%= sorted_articles.first.compiled_content %>
                 </section>
                 <footer>
-                    <%= attribute_to_time(sorted_articles.first[:created_at]).strftime('%I:%M%p') %>
+                    <% if sorted_articles.first[:type] == 'conscious' %>
+                        --:--
+                    <% else %>
+                        <%= attribute_to_time(sorted_articles.first[:created_at]).strftime('%I:%M%p') %>
+                    <% end %>
                 </footer>
             </article>
         </section>
