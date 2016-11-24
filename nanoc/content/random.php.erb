@@ -1,0 +1,12 @@
+---
+is_hidden: true
+---
+<?php
+
+$urls = array(
+    <% sorted_articles.each do |item| %>
+        '<%= url_for(item).gsub(/'/, "\\\\'") %>',
+    <% end %>
+);
+
+header('Location: ' . $urls[array_rand($urls)], true, 303);

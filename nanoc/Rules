@@ -29,6 +29,11 @@ compile '/assets/style/*.less' do
   write output
 end
 
+compile '/random.php.erb' do
+  filter :erb
+  write '/random/index.php'
+end
+
 compile '/sitemap.*' do
   filter :erb
   write '/sitemap.xml'
