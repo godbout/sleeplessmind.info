@@ -24,4 +24,4 @@ No tears. No hate. No anger. Nothing.
 
 Pure calmness, and pure frankness. Pure love, would I dare to say?
 
-That happened less than 2 minutes ago. And now all I'm thinking while staring at her is: which part do I chop first??
+That happened less than 2 minutes ago. And now all I'm thinking while staring at her is: which part do I chop first?
