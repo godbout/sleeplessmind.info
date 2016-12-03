@@ -15,7 +15,7 @@
                     <h1><%= @item[:title] %></h1>
                     <p><%= yield %></p>
                     <% if @item[:type] == 'conscious' %>
-                        <%= (@item[:kind] == 'article' ? '<footer>--:--</footer>' : '') %>
+                        <%= (@item[:kind] == 'article' ? '<footer>' + attribute_to_time(@item[:created_at]).strftime('%b %e, %Y') + '</footer>' : '') %>
                     <% else %>
                         <%= (@item[:kind] == 'article' ? '<footer>' + attribute_to_time(@item[:created_at]).strftime('%I:%M%p') + '</footer>' : '') %>
                     <% end %>
