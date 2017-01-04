@@ -5,7 +5,7 @@ type: conscious
 created_at: 2016-11-08 23:32
 ---
 
-I felt I had grossly ten-odd more years to go, and it still sounded like an awful amount of time to me. I entered into a deep—almost meditation-like—reflection about what to devote that remaining decade of my life to. Gambling? Carousing? All of it sounded incredibly dull, and just thinking of it made my eyelids quiver with despair.
+I felt I had grossly ten-odd more years to go, and it still sounded like an awful amount of time to me. I entered into a deep-almost meditation-like-reflection about what to devote that remaining decade of my life to. Gambling? Carousing? All of it sounded incredibly dull, and just thinking of it made my eyelids quiver with despair.
 
 I was not always a dubious character. As a child, I would usually be romping around the house with Jixi, our family dog, grinning like a stupid. But one day something happened. Some classmates of mine showed up at the front porch, one wearing a cap and holding a baseball bat. They were 6 of them, the shortest standing almost behind me. When he started bawling in my direction, I couldn't help turning my head and gazing at him, and this is when I received the blow on the nape of my neck. I fell down immediately.
 
