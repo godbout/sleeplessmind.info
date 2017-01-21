@@ -14,7 +14,12 @@ compile '/assets/{img,fonts}/*' do
   write output
 end
 
-passthrough '/favicon.ico'
+compile '/assets/favicons/*' do
+  output = item.identifier.to_s.sub('/assets/favicons', '')
+  write output
+end
+
+# passthrough '/favicon.ico'
 
 compile '/assets/js/*' do
   filter :yui_compressor, :type => :js
