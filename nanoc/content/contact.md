@@ -7,7 +7,7 @@ created_at: 2017-01-24
 
 * [Facebook](https://www.facebook.com/sleeplessmind.info/)
 * [Twitter](https://twitter.com/slmd_info)
-* [TheGooglePlusShit](https://plus.google.com/b/112045951860210277097/)
+* [TheGooglePlusShit](https://plus.google.com/b/112045951860210277097/112045951860210277097)
 * [Instagram](https://www.instagram.com/sleeplessmind.info/)
 * [Pinterest](https://www.pinterest.com/slmd_info/)
 * [Email](mailto:guill@sleeplessmind.info)
