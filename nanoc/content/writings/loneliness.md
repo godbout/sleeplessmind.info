@@ -11,6 +11,6 @@ Is that the price to pay?
 
 And more importantly, is it worthy?
 
-But if one is getting lonely with oneself, isn’t there some issues to solve there? If one cannot handle their own loneliness by themselves, why should anyone else take care of it?  And then become a bandaid. A patch anti-loneliness.
+But if one is getting lonely with oneself, aren't there some issues to solve there? If one cannot handle their own loneliness, why should anyone else take care of it?  And then become a bandaid. A patch anti-loneliness.
 
-And ultimately, be thrown in a trash.
+And to ultimately, be thrown in a trash.
