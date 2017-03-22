@@ -12,7 +12,7 @@ Way
 You’re born without  
 Knowing anything  
 So what did you  
-Except  
+Expect  
 You little girl  
 
 Things  
