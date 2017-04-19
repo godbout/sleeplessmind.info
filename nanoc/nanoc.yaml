@@ -89,7 +89,7 @@ checks:
     #   exclude_files: ['blog/page']
     exclude_files: []
 
-base_url: http://sleeplessmind.info
+base_url: https://sleeplessmind.info
 
 deploy:
   production:
