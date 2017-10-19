@@ -94,5 +94,5 @@ base_url: https://sleeplessmind.info
 deploy:
   production:
     kind: rsync
-    dst: "guill@sleeplessmind.info:/srv/www/sleeplessmind.info/public_html"
+    dst: "slmd@sleeplessmind.info:/home/slmd/apps/sleeplessmind.info/current/public"
     options: ['-aP', '--delete-after']
