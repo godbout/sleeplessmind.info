@@ -9,7 +9,7 @@ He is facing her, with his arms open. The wind from the Irish shore blows his un
 
 She is walking towards him, and reaching for his wide and strong chest. The sky is grey, a typical grey of the Irish coasts. She touches his warm and welcoming chest with her tiny and cold hands. She loves the feeling; she feels protected. She also feels physically attracted and sexually aroused. Her face is impassive, her body stoic, but she is still showing an extreme confidence.
 
-She slowly lets her head rest on his chest. She can hear his heartbeat clearly. One... Two... Three... And this when she decides to push.
+She slowly lets her head rest on his chest. She can hear his heartbeat clearly. One\... Two\... Three\... And this when she decides to push.
 
 He doesn't fight it. Maybe because he doesn't expect it at all, or maybe the opposite. His hair is now blowing in front of his face, while his body is taking the shape of half a circle. It looks like he's flying backwards. For a second he's still at the level of the land, but soon enough he's under, and then he knows that it's the end of him.
 
