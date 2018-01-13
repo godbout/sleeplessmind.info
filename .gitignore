@@ -3,11 +3,12 @@
 *.sublime-project
 *.sublime-workspace
 
-nanoc/output
-nanoc/tmp
+output
+tmp
 
 crash.log
 
 # Capistrano
 Capfile
 config/
+log/
