@@ -7,3 +7,7 @@ nanoc/output
 nanoc/tmp
 
 crash.log
+
+# Capistrano
+Capfile
+config/
