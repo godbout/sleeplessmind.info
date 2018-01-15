@@ -5,7 +5,7 @@ created_at: 2012-06-22
 
 # some updates
 
-This page was written for the first time in 2012. Since then a few things have changed, like, for example, <span style="text-decoration: line-through;">my ability to fall asleep. Started <time datetime="2015-10-01" class="timeago"></time>, I am now able to fall asleep within 10 to 20 minutes. I wake up after 5 or 6 hours naturally, so I don't consider myself as having chronic insomnia anymore. I still have bad days, rarely, but when it happens, my mind is (thankfully) as furious as ever</span> the insomnia is currently on and off. A few times a month I can't sleep at all. On average I fall asleep within 2 to 3 hours.
+This page was written for the first time in 2012. Since then a few things have changed, like, for example, <span style="text-decoration: line-through;">my ability to fall asleep. Started <time datetime="2015-10-01" class="timeago"></time>, I am now able to fall asleep within 10 to 20 minutes. I wake up after 5 or 6 hours naturally, so I don't consider myself as having chronic insomnia anymore. I still have bad days, rarely, but when it happens, my mind is (thankfully) as furious as ever</span> the insomnia is currently on and off. A few times a month I can't sleep at all. On average I fall asleep within 3 to 6 hours.
 
 More importantly (to me), all the dates that you can find here are relative to the time you are reading this page. That means that if you read "5 years ago" it is really 5 years ago from NOW. Not from 2012.
 
@@ -19,11 +19,11 @@ All the other information on this page has been updated to reflect my situation 
 
 In 2012 I discovered that I had been insomniac for the previous 15 years, according to [Wikipedia](http://en.wikipedia.org/wiki/Insomnia#Non-pharmacological). "Discovered" because when I was 14 I thought everybody had to wait 1 or 2 hours to fall asleep. Since that age, I added 1 more hour to fall asleep every year.
 
-My mind makes up stories on its own. What you can read on this website is some of those stories. It's a pure dump of the pictures, the colors, and the emotions that fill my head at the moment. Nothing is arranged to make the essays look good, as I'm not really conscious when they are getting typed. My hands are on the keyboard, and it just happens. 
+My mind makes up stories on its own. What you can read on this website is some of those stories. It's a pure dump of the pictures, the colors, and the emotions that fill my head at the moment. Nothing is arranged to make the essays look good, as I'm not really conscious when they are getting typed. My hands are on the keyboard, and it just happens.
 
 There are only a few stories printed here, but there has been at least a billion. I just keep being optimistic, every night, that I will be able to fall asleep so I don't get up from my bed. Maybe later, I will write one story a day.
 
-# About 
+# About
 
 # me
 
@@ -45,7 +45,7 @@ Or drop me a nice and sweet email: [&#103;&#117;&#105;&#108;&#108;&#064;&#115;&#
 
 There's now also a [contact](/contact) page so that you can facebook/tweet/google/instagram/pinterest [me](/) and follow the writings wherever you like.
 
-# About 
+# About
 
 # insomnia and more
 
