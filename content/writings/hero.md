@@ -33,7 +33,7 @@ I didn't count how many I saw during that year because it's none of my business,
 
 I've always wondered how he could juggle so well, and show not one ounce of worry, or guilt.
 
-Now tears are rolling down the cheeks of each of these women. They probably know the truth now, but there are still tears of love.
+Now tears are rolling down the cheeks of each of these women. They probably know the truth now, but they are still tears of love.
 
 I'm curious. I join the table.
 I see the letter, and the phone.
