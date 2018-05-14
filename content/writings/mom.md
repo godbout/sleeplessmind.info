@@ -7,15 +7,15 @@ created_at: 2017-11-27 00:00
 
 The lift brings me slowly from the carpark to the first floor, even so delicately that it feels like it doesn't want to offend its quiet passengers.
 
-It's understandable. Each of us is going to get heavily slapped in the face—mainly, or actually entirely, psychologically—in our own kinda way. But still, we are here, and the tern, non-inviting doors open with a squeak.
+It's understandable. Each of us is going to get heavily slapped in the face-mainly, or actually entirely, psychologically-in our own kinda way. But still, we are here, and the tern, non-inviting doors open with a squeak.
 
-I do not like crowded places. They make me sweat, they make my heart pump much harder than it is intended to, and I often—not to say always—happen to vomit and pass out (yes, into my own so speedily expelled warm regurgitation) and forget about the whole thing.
+I do not like crowded places. They make me sweat, they make my heart pump much harder than it is intended to, and I often-not to say always-happen to vomit and pass out (yes, into my own so speedily expelled warm regurgitation) and forget about the whole thing.
 
-But here, I hate it even more. Cemeteries, hospitals, same same. No difference. You might argue that they are crowded too, but at least their clients are of the quiet type...
+But here, I hate it even more. Cemeteries, hospitals, same same. No difference. You might argue that they are crowded too, but at least their clients are of the quiet type\...
 
 Anyways. Now it's time for the mournful walk.
 
-Opposite the elevator is the first floor reception office. The path to the desk is paved with an ugly and reeking carpet from the 80s. Tania, the tall blonde—blouse ALWAYS open down to the third button—and Cathy—perm à la Halle Berry, Chanel number 5, half the bottle—greet me with a slight move of their chins while they're scrutinizing each other's nails freshly polished.
+Opposite the elevator is the first floor reception office. The path to the desk is paved with an ugly and reeking carpet from the 80s. Tania, the tall blonde-blouse ALWAYS open down to the third button-and Cathy-perm à la Halle Berry, Chanel number 5, half the bottle-greet me with a slight move of their chins while they're scrutinizing each other's nails freshly polished.
 
 I pass by them slowly, without giving a single look. On the left, the corridor is long and cold, metaphorically, and literally. My mom is at the end. I stand firm. The neon lightning on top of my head is sharp but dull, and is unfortunately typical of this kind of places.
 
