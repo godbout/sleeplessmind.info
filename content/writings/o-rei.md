@@ -1,5 +1,5 @@
 ---
-title: O Rei
+title: O Rei.
 kind: article
 type: unconscious
 created_at: 2018-03-27 03:24
