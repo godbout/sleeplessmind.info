@@ -3,3 +3,18 @@
 @tailwind components;
 
 @tailwind utilities;
+
+@font-face {
+    font-family: 'UnderwoodChampionRegular';
+    src: url('/assets/fonts/underwood_champion-webfont.eot');
+    src: url('/assets/fonts/underwood_champion-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/assets/fonts/underwood_champion-webfont.woff') format('woff'),
+         url('/assets/fonts/underwood_champion-webfont.ttf') format('truetype'),
+         url('/assets/fonts/underwood_champion-webfont.svg#UnderwoodChampionRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+header li a.nav-item {
+    @apply ml-2 pt-1 pr-1 pb-px pl-3 text-gray;
+}

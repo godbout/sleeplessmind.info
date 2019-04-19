@@ -6,7 +6,17 @@
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
     </head>
-    <body>
-        @yield('body')
+    <body
+        class="text-sm"
+        style="
+            background-image: url('/assets/images/bg.png');
+            font-family: 'UnderwoodChampionRegular', Arial, sans-serif;
+        "
+    >
+        @include('_partials.header')
+
+        @yield('content')
     </body>
+
+
 </html>
