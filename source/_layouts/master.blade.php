@@ -7,16 +7,11 @@
         <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
     </head>
     <body
-        class="text-sm"
-        style="
-            background-image: url('/assets/images/bg.png');
-            font-family: 'UnderwoodChampionRegular', Arial, sans-serif;
-        "
+        class="text-sm font-body"
+        style="background-image: url('/assets/images/bg.png');"
     >
         @include('_partials.header')
 
         @yield('content')
     </body>
-
-
 </html>

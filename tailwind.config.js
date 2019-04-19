@@ -1,12 +1,16 @@
 module.exports = {
   theme: {
+    fontFamily: {
+      'body': 'UnderwoodChampionRegular'
+    },
     colors: {
       black: '#000',
-      gray: '#ccc'
+      gray: '#ccc',
+      white: '#fff'
     }
   },
   variants: {
-    // Some useful comment
+    backgroundColor: ['hover']
   },
   plugins: [
     // Some useful comment

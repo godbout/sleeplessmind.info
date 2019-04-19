@@ -18,3 +18,7 @@
 header li a.nav-item {
     @apply ml-2 pt-1 pr-1 pb-px pl-3 text-gray;
 }
+
+header li a.nav-item:hover {
+    @apply bg-black text-white;
+}
