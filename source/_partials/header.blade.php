@@ -1,12 +1,12 @@
-<header class="my-6 mx-4">
+<header class="my-25 mx-15">
     <nav>
         <ul class="flex">
-            <li class="ml-4">{!! $page->selected('', 'Home') !!}</li>
-            <li class="ml-4">{!! $page->selected('random') !!}</li>
-            <li class="ml-4">{!! $page->selected('writings') !!}</li>
-            <li class="ml-4">{!! $page->selected('about') !!}</li>
-            <li class="ml-4">{!! $page->selected('contact') !!}</li>
-            <li class="ml-4">{!! $page->selected('beers') !!}</li>
+            <li class="mx-13">{!! $page->selected('', 'Home') !!}</li>
+            <li class="mx-13">{!! $page->selected('random') !!}</li>
+            <li class="mx-13">{!! $page->selected('writings') !!}</li>
+            <li class="mx-13">{!! $page->selected('about') !!}</li>
+            <li class="mx-13">{!! $page->selected('contact') !!}</li>
+            <li class="mx-13">{!! $page->selected('beers') !!}</li>
         </ul>
     </nav>
 </header>

@@ -16,11 +16,11 @@
 }
 
 h1 {
-    @apply text-big my-12;
+    @apply text-big my-50;
 }
 
 a {
-    @apply pt-2 pr-1 pb-px pl-0 underline;
+    @apply pt-15 pr-35 pb-8 pl-10 underline;
 }
 
 a:hover {
@@ -28,13 +28,17 @@ a:hover {
 }
 
 p {
-    @apply my-5 text-normal;
+    @apply my-20 text-normal;
 }
 
 .nav-item {
-    @apply pt-1 pr-1 pb-px pl-3 text-gray text-small no-underline;
+    @apply pt-5 pr-4 pb-2 pl-9 text-gray text-small no-underline rounded-2;
 }
 
 .selected {
     @apply text-black;
+}
+
+#writings-list a {
+    @apply no-underline;
 }

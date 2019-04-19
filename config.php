@@ -3,7 +3,12 @@
 return [
     'production' => false,
     'baseUrl' => '',
-    'collections' => [],
+    'collections' => [
+        'writings' => [
+            'extends' => '_layouts.master',
+            'sort' => '-created_at'
+        ]
+    ],
     'selected' => function ($page, $link, $title = '') {
         $title = $title ?: ucfirst($link);
 
