@@ -2153,48 +2153,8 @@ video {
   max-height: 100vh;
 }
 
-.max-w-xs {
-  max-width: 20rem;
-}
-
-.max-w-sm {
-  max-width: 24rem;
-}
-
-.max-w-md {
-  max-width: 28rem;
-}
-
-.max-w-lg {
-  max-width: 32rem;
-}
-
 .max-w-xl {
   max-width: 36rem;
-}
-
-.max-w-2xl {
-  max-width: 42rem;
-}
-
-.max-w-3xl {
-  max-width: 48rem;
-}
-
-.max-w-4xl {
-  max-width: 56rem;
-}
-
-.max-w-5xl {
-  max-width: 64rem;
-}
-
-.max-w-6xl {
-  max-width: 72rem;
-}
-
-.max-w-full {
-  max-width: 100%;
 }
 
 .min-h-0 {
@@ -3786,44 +3746,16 @@ video {
   color: #fff;
 }
 
-.text-xs {
-  font-size: .75rem;
-}
-
-.text-sm {
+.text-small {
   font-size: .875rem;
 }
 
-.text-base {
-  font-size: 1rem;
-}
-
-.text-lg {
+.text-normal {
   font-size: 1.125rem;
 }
 
-.text-xl {
-  font-size: 1.25rem;
-}
-
-.text-2xl {
-  font-size: 1.5rem;
-}
-
-.text-3xl {
-  font-size: 1.875rem;
-}
-
-.text-4xl {
-  font-size: 2.25rem;
-}
-
-.text-5xl {
-  font-size: 3rem;
-}
-
-.text-6xl {
-  font-size: 4rem;
+.text-big {
+  font-size: 2rem;
 }
 
 .italic {
@@ -4173,18 +4105,43 @@ video {
   font-style: normal;
 }
 
-header li a.nav-item {
-  margin-left: .5rem;
+h1 {
+  font-size: 2rem;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+a {
+  padding-top: .5rem;
+  padding-right: .25rem;
+  padding-bottom: 1px;
+  padding-left: 0;
+  text-decoration: underline;
+}
+
+a:hover {
+  background-color: #000;
+  color: #fff;
+}
+
+p {
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+  font-size: 1.125rem;
+}
+
+.nav-item {
   padding-top: .25rem;
   padding-right: .25rem;
   padding-bottom: 1px;
   padding-left: .75rem;
   color: #ccc;
+  font-size: .875rem;
+  text-decoration: none;
 }
 
-header li a.nav-item:hover {
-  background-color: #000;
-  color: #fff;
+.selected {
+  color: #000;
 }
 
 @media (min-width: 640px) {
@@ -5680,48 +5637,8 @@ header li a.nav-item:hover {
     max-height: 100vh;
   }
 
-  .sm\:max-w-xs {
-    max-width: 20rem;
-  }
-
-  .sm\:max-w-sm {
-    max-width: 24rem;
-  }
-
-  .sm\:max-w-md {
-    max-width: 28rem;
-  }
-
-  .sm\:max-w-lg {
-    max-width: 32rem;
-  }
-
   .sm\:max-w-xl {
     max-width: 36rem;
-  }
-
-  .sm\:max-w-2xl {
-    max-width: 42rem;
-  }
-
-  .sm\:max-w-3xl {
-    max-width: 48rem;
-  }
-
-  .sm\:max-w-4xl {
-    max-width: 56rem;
-  }
-
-  .sm\:max-w-5xl {
-    max-width: 64rem;
-  }
-
-  .sm\:max-w-6xl {
-    max-width: 72rem;
-  }
-
-  .sm\:max-w-full {
-    max-width: 100%;
   }
 
   .sm\:min-h-0 {
@@ -7297,44 +7214,16 @@ header li a.nav-item:hover {
     color: #fff;
   }
 
-  .sm\:text-xs {
-    font-size: .75rem;
-  }
-
-  .sm\:text-sm {
+  .sm\:text-small {
     font-size: .875rem;
   }
 
-  .sm\:text-base {
-    font-size: 1rem;
-  }
-
-  .sm\:text-lg {
+  .sm\:text-normal {
     font-size: 1.125rem;
   }
 
-  .sm\:text-xl {
-    font-size: 1.25rem;
-  }
-
-  .sm\:text-2xl {
-    font-size: 1.5rem;
-  }
-
-  .sm\:text-3xl {
-    font-size: 1.875rem;
-  }
-
-  .sm\:text-4xl {
-    font-size: 2.25rem;
-  }
-
-  .sm\:text-5xl {
-    font-size: 3rem;
-  }
-
-  .sm\:text-6xl {
-    font-size: 4rem;
+  .sm\:text-big {
+    font-size: 2rem;
   }
 
   .sm\:italic {
@@ -9170,48 +9059,8 @@ header li a.nav-item:hover {
     max-height: 100vh;
   }
 
-  .md\:max-w-xs {
-    max-width: 20rem;
-  }
-
-  .md\:max-w-sm {
-    max-width: 24rem;
-  }
-
-  .md\:max-w-md {
-    max-width: 28rem;
-  }
-
-  .md\:max-w-lg {
-    max-width: 32rem;
-  }
-
   .md\:max-w-xl {
     max-width: 36rem;
-  }
-
-  .md\:max-w-2xl {
-    max-width: 42rem;
-  }
-
-  .md\:max-w-3xl {
-    max-width: 48rem;
-  }
-
-  .md\:max-w-4xl {
-    max-width: 56rem;
-  }
-
-  .md\:max-w-5xl {
-    max-width: 64rem;
-  }
-
-  .md\:max-w-6xl {
-    max-width: 72rem;
-  }
-
-  .md\:max-w-full {
-    max-width: 100%;
   }
 
   .md\:min-h-0 {
@@ -10787,44 +10636,16 @@ header li a.nav-item:hover {
     color: #fff;
   }
 
-  .md\:text-xs {
-    font-size: .75rem;
-  }
-
-  .md\:text-sm {
+  .md\:text-small {
     font-size: .875rem;
   }
 
-  .md\:text-base {
-    font-size: 1rem;
-  }
-
-  .md\:text-lg {
+  .md\:text-normal {
     font-size: 1.125rem;
   }
 
-  .md\:text-xl {
-    font-size: 1.25rem;
-  }
-
-  .md\:text-2xl {
-    font-size: 1.5rem;
-  }
-
-  .md\:text-3xl {
-    font-size: 1.875rem;
-  }
-
-  .md\:text-4xl {
-    font-size: 2.25rem;
-  }
-
-  .md\:text-5xl {
-    font-size: 3rem;
-  }
-
-  .md\:text-6xl {
-    font-size: 4rem;
+  .md\:text-big {
+    font-size: 2rem;
   }
 
   .md\:italic {
@@ -12660,48 +12481,8 @@ header li a.nav-item:hover {
     max-height: 100vh;
   }
 
-  .lg\:max-w-xs {
-    max-width: 20rem;
-  }
-
-  .lg\:max-w-sm {
-    max-width: 24rem;
-  }
-
-  .lg\:max-w-md {
-    max-width: 28rem;
-  }
-
-  .lg\:max-w-lg {
-    max-width: 32rem;
-  }
-
   .lg\:max-w-xl {
     max-width: 36rem;
-  }
-
-  .lg\:max-w-2xl {
-    max-width: 42rem;
-  }
-
-  .lg\:max-w-3xl {
-    max-width: 48rem;
-  }
-
-  .lg\:max-w-4xl {
-    max-width: 56rem;
-  }
-
-  .lg\:max-w-5xl {
-    max-width: 64rem;
-  }
-
-  .lg\:max-w-6xl {
-    max-width: 72rem;
-  }
-
-  .lg\:max-w-full {
-    max-width: 100%;
   }
 
   .lg\:min-h-0 {
@@ -14277,44 +14058,16 @@ header li a.nav-item:hover {
     color: #fff;
   }
 
-  .lg\:text-xs {
-    font-size: .75rem;
-  }
-
-  .lg\:text-sm {
+  .lg\:text-small {
     font-size: .875rem;
   }
 
-  .lg\:text-base {
-    font-size: 1rem;
-  }
-
-  .lg\:text-lg {
+  .lg\:text-normal {
     font-size: 1.125rem;
   }
 
-  .lg\:text-xl {
-    font-size: 1.25rem;
-  }
-
-  .lg\:text-2xl {
-    font-size: 1.5rem;
-  }
-
-  .lg\:text-3xl {
-    font-size: 1.875rem;
-  }
-
-  .lg\:text-4xl {
-    font-size: 2.25rem;
-  }
-
-  .lg\:text-5xl {
-    font-size: 3rem;
-  }
-
-  .lg\:text-6xl {
-    font-size: 4rem;
+  .lg\:text-big {
+    font-size: 2rem;
   }
 
   .lg\:italic {
@@ -16150,48 +15903,8 @@ header li a.nav-item:hover {
     max-height: 100vh;
   }
 
-  .xl\:max-w-xs {
-    max-width: 20rem;
-  }
-
-  .xl\:max-w-sm {
-    max-width: 24rem;
-  }
-
-  .xl\:max-w-md {
-    max-width: 28rem;
-  }
-
-  .xl\:max-w-lg {
-    max-width: 32rem;
-  }
-
   .xl\:max-w-xl {
     max-width: 36rem;
-  }
-
-  .xl\:max-w-2xl {
-    max-width: 42rem;
-  }
-
-  .xl\:max-w-3xl {
-    max-width: 48rem;
-  }
-
-  .xl\:max-w-4xl {
-    max-width: 56rem;
-  }
-
-  .xl\:max-w-5xl {
-    max-width: 64rem;
-  }
-
-  .xl\:max-w-6xl {
-    max-width: 72rem;
-  }
-
-  .xl\:max-w-full {
-    max-width: 100%;
   }
 
   .xl\:min-h-0 {
@@ -17767,44 +17480,16 @@ header li a.nav-item:hover {
     color: #fff;
   }
 
-  .xl\:text-xs {
-    font-size: .75rem;
-  }
-
-  .xl\:text-sm {
+  .xl\:text-small {
     font-size: .875rem;
   }
 
-  .xl\:text-base {
-    font-size: 1rem;
-  }
-
-  .xl\:text-lg {
+  .xl\:text-normal {
     font-size: 1.125rem;
   }
 
-  .xl\:text-xl {
-    font-size: 1.25rem;
-  }
-
-  .xl\:text-2xl {
-    font-size: 1.5rem;
-  }
-
-  .xl\:text-3xl {
-    font-size: 1.875rem;
-  }
-
-  .xl\:text-4xl {
-    font-size: 2.25rem;
-  }
-
-  .xl\:text-5xl {
-    font-size: 3rem;
-  }
-
-  .xl\:text-6xl {
-    font-size: 4rem;
+  .xl\:text-big {
+    font-size: 2rem;
   }
 
   .xl\:italic {

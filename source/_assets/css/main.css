@@ -8,17 +8,33 @@
     font-family: 'UnderwoodChampionRegular';
     src: url('/assets/fonts/underwood_champion-webfont.eot');
     src: url('/assets/fonts/underwood_champion-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/assets/fonts/underwood_champion-webfont.woff') format('woff'),
-         url('/assets/fonts/underwood_champion-webfont.ttf') format('truetype'),
-         url('/assets/fonts/underwood_champion-webfont.svg#UnderwoodChampionRegular') format('svg');
+        url('/assets/fonts/underwood_champion-webfont.woff') format('woff'),
+        url('/assets/fonts/underwood_champion-webfont.ttf') format('truetype'),
+        url('/assets/fonts/underwood_champion-webfont.svg#UnderwoodChampionRegular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 
-header li a.nav-item {
-    @apply ml-2 pt-1 pr-1 pb-px pl-3 text-gray;
+h1 {
+    @apply text-big my-12;
 }
 
-header li a.nav-item:hover {
+a {
+    @apply pt-2 pr-1 pb-px pl-0 underline;
+}
+
+a:hover {
     @apply bg-black text-white;
+}
+
+p {
+    @apply my-5 text-normal;
+}
+
+.nav-item {
+    @apply pt-1 pr-1 pb-px pl-3 text-gray text-small no-underline;
+}
+
+.selected {
+    @apply text-black;
 }

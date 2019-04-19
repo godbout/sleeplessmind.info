@@ -9,7 +9,7 @@ return [
 
         if (str_contains($page->getPath(), $link)
             || (empty($page->getPath()) && empty($link))) {
-            return '<span class="active nav-item">' . $title . '</span>';
+            return '<span class="nav-item selected font-bold">' . $title . '</span>';
         }
 
         /**
