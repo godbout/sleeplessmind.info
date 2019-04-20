@@ -1,5 +1,6 @@
 ---
 extends: _layouts.writings_list
+title: Writings
 ---
 
 @section('content')

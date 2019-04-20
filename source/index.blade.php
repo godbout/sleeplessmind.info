@@ -1,4 +1,7 @@
-@extends('_layouts.master')
+---
+extends: _layouts.master
+title: sleeplessmind.info
+---
 
 @section('body')
     @section('content')
