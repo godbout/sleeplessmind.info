@@ -1,7 +1,7 @@
 ---
 title: Ground Zero
 kind: article
-created_at: 2013-01-17 03h47
+created_at: 2013-01-17 03:47
 ---
 
 My feet  

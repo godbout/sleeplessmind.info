@@ -1,7 +1,7 @@
 ---
 title: The Devil
 kind: article
-created_at: 2016-04-16 01:21AM
+created_at: 2016-04-16 01:21
 ---
 
 Am I OK? She’s asking.

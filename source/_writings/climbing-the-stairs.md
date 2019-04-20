@@ -1,7 +1,7 @@
 ---
 title: Climbing the Stairs
 kind: article
-created_at: 1 Jun 2016 4:37 AM
+created_at: 2016-06-01 04:37
 ---
 
 I was walking up the stairs, minding my own business. 3 guys were walking right behind me. One hit me in the neck, I fell. Then they started kicking me in the face. I bled instantly. I heard my nose cracked. I know it was done.
