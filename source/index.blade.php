@@ -1,5 +1,9 @@
 @extends('_layouts.master')
 
 @section('body')
-<h1>Hello world!</h1>
+    @section('content')
+        {!! $writings->first()->getContent() !!}
+    @endsection
+
+    @include('_partials.writing', ['page' => $writings->first()])
 @endsection
