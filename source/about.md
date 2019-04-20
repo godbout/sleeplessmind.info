@@ -1,5 +1,5 @@
 ---
-extends: _layouts.master
+extends: _layouts.page
 title: About
 created_at: 2012-06-22
 ---

@@ -1377,6 +1377,10 @@ video {
   margin: 8rem;
 }
 
+.m-35 {
+  margin: 35px;
+}
+
 .m-40 {
   margin: 10rem;
 }
@@ -1577,6 +1581,16 @@ video {
 .mx-32 {
   margin-left: 8rem;
   margin-right: 8rem;
+}
+
+.my-35 {
+  margin-top: 35px;
+  margin-bottom: 35px;
+}
+
+.mx-35 {
+  margin-left: 35px;
+  margin-right: 35px;
 }
 
 .my-40 {
@@ -1929,6 +1943,22 @@ video {
 
 .ml-32 {
   margin-left: 8rem;
+}
+
+.mt-35 {
+  margin-top: 35px;
+}
+
+.mr-35 {
+  margin-right: 35px;
+}
+
+.mb-35 {
+  margin-bottom: 35px;
+}
+
+.ml-35 {
+  margin-left: 35px;
 }
 
 .mt-40 {
@@ -4883,6 +4913,10 @@ p {
     margin: 8rem;
   }
 
+  .sm\:m-35 {
+    margin: 35px;
+  }
+
   .sm\:m-40 {
     margin: 10rem;
   }
@@ -5083,6 +5117,16 @@ p {
   .sm\:mx-32 {
     margin-left: 8rem;
     margin-right: 8rem;
+  }
+
+  .sm\:my-35 {
+    margin-top: 35px;
+    margin-bottom: 35px;
+  }
+
+  .sm\:mx-35 {
+    margin-left: 35px;
+    margin-right: 35px;
   }
 
   .sm\:my-40 {
@@ -5435,6 +5479,22 @@ p {
 
   .sm\:ml-32 {
     margin-left: 8rem;
+  }
+
+  .sm\:mt-35 {
+    margin-top: 35px;
+  }
+
+  .sm\:mr-35 {
+    margin-right: 35px;
+  }
+
+  .sm\:mb-35 {
+    margin-bottom: 35px;
+  }
+
+  .sm\:ml-35 {
+    margin-left: 35px;
   }
 
   .sm\:mt-40 {
@@ -8309,6 +8369,10 @@ p {
     margin: 8rem;
   }
 
+  .md\:m-35 {
+    margin: 35px;
+  }
+
   .md\:m-40 {
     margin: 10rem;
   }
@@ -8509,6 +8573,16 @@ p {
   .md\:mx-32 {
     margin-left: 8rem;
     margin-right: 8rem;
+  }
+
+  .md\:my-35 {
+    margin-top: 35px;
+    margin-bottom: 35px;
+  }
+
+  .md\:mx-35 {
+    margin-left: 35px;
+    margin-right: 35px;
   }
 
   .md\:my-40 {
@@ -8861,6 +8935,22 @@ p {
 
   .md\:ml-32 {
     margin-left: 8rem;
+  }
+
+  .md\:mt-35 {
+    margin-top: 35px;
+  }
+
+  .md\:mr-35 {
+    margin-right: 35px;
+  }
+
+  .md\:mb-35 {
+    margin-bottom: 35px;
+  }
+
+  .md\:ml-35 {
+    margin-left: 35px;
   }
 
   .md\:mt-40 {
@@ -11735,6 +11825,10 @@ p {
     margin: 8rem;
   }
 
+  .lg\:m-35 {
+    margin: 35px;
+  }
+
   .lg\:m-40 {
     margin: 10rem;
   }
@@ -11935,6 +12029,16 @@ p {
   .lg\:mx-32 {
     margin-left: 8rem;
     margin-right: 8rem;
+  }
+
+  .lg\:my-35 {
+    margin-top: 35px;
+    margin-bottom: 35px;
+  }
+
+  .lg\:mx-35 {
+    margin-left: 35px;
+    margin-right: 35px;
   }
 
   .lg\:my-40 {
@@ -12287,6 +12391,22 @@ p {
 
   .lg\:ml-32 {
     margin-left: 8rem;
+  }
+
+  .lg\:mt-35 {
+    margin-top: 35px;
+  }
+
+  .lg\:mr-35 {
+    margin-right: 35px;
+  }
+
+  .lg\:mb-35 {
+    margin-bottom: 35px;
+  }
+
+  .lg\:ml-35 {
+    margin-left: 35px;
   }
 
   .lg\:mt-40 {
@@ -15161,6 +15281,10 @@ p {
     margin: 8rem;
   }
 
+  .xl\:m-35 {
+    margin: 35px;
+  }
+
   .xl\:m-40 {
     margin: 10rem;
   }
@@ -15361,6 +15485,16 @@ p {
   .xl\:mx-32 {
     margin-left: 8rem;
     margin-right: 8rem;
+  }
+
+  .xl\:my-35 {
+    margin-top: 35px;
+    margin-bottom: 35px;
+  }
+
+  .xl\:mx-35 {
+    margin-left: 35px;
+    margin-right: 35px;
   }
 
   .xl\:my-40 {
@@ -15713,6 +15847,22 @@ p {
 
   .xl\:ml-32 {
     margin-left: 8rem;
+  }
+
+  .xl\:mt-35 {
+    margin-top: 35px;
+  }
+
+  .xl\:mr-35 {
+    margin-right: 35px;
+  }
+
+  .xl\:mb-35 {
+    margin-bottom: 35px;
+  }
+
+  .xl\:ml-35 {
+    margin-left: 35px;
   }
 
   .xl\:mt-40 {

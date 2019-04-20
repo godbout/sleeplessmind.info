@@ -5,7 +5,7 @@ return [
     'baseUrl' => '',
     'collections' => [
         'writings' => [
-            'extends' => '_layouts.master',
+            'extends' => '_layouts.writing',
             'sort' => '-created_at'
         ]
     ],

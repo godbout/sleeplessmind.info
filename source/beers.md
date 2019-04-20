@@ -1,5 +1,5 @@
 ---
-extends: _layouts.master
+extends: _layouts.page
 title: Beers
 created_at: 2016-06-07
 ---

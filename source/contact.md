@@ -1,5 +1,5 @@
 ---
-extends: _layouts.master
+extends: _layouts.page
 title: Contact
 created_at: 2017-01-24
 ---
