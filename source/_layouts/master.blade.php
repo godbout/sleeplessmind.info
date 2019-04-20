@@ -15,4 +15,7 @@
             </section>
         </section>
     </body>
+    <script src="{{ mix('js/manifest.js', 'assets/build') }}"></script>
+    <script src="{{ mix('js/vendor.js', 'assets/build') }}"></script>
+    <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
 </html>
