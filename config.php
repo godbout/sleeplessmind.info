@@ -12,7 +12,7 @@ return [
     'selected' => function ($page, $link, $title = '') {
         $title = $title ?: ucfirst($link);
 
-        if (str_contains($page->getPath(), $link)
+        if (trim($page->getPath(), '/') === $link
             || (empty($page->getPath()) && empty($link))) {
             return '<span class="nav-item selected font-bold">' . $title . '</span>';
         }
