@@ -15,12 +15,17 @@
     font-style: normal;
 }
 
+body {
+    @apply text-normal font-body leading-24 font-normal;
+    background-image: url('/assets/images/bg.png');
+}
+
 h1 {
     @apply text-big my-50;
 }
 
 a {
-    @apply pt-15 pr-35 pb-8 pl-10 underline;
+    @apply pt-3 pr-2 pb-1 pl-0 underline;
 }
 
 a:hover {
@@ -40,5 +45,5 @@ p {
 }
 
 #writings-list a {
-    @apply no-underline;
+    @apply pt-15 pr-35 pb-8 pl-10 no-underline rounded-3;
 }

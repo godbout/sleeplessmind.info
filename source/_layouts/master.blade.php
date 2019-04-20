@@ -6,10 +6,7 @@
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
     </head>
-    <body
-        class="text-lg font-body leading-24 font-normal"
-        style="background-image: url('/assets/images/bg.png');"
-    >
+    <body>
         @include('_partials.header')
 
         <section class="max-w-xl mx-auto my-0">

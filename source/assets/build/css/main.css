@@ -2820,7 +2820,7 @@ video {
 }
 
 .p-1 {
-  padding: .25rem;
+  padding: 1px;
 }
 
 .p-2 {
@@ -2828,7 +2828,7 @@ video {
 }
 
 .p-3 {
-  padding: .75rem;
+  padding: 3px;
 }
 
 .p-4 {
@@ -2914,13 +2914,13 @@ video {
 }
 
 .py-1 {
-  padding-top: .25rem;
-  padding-bottom: .25rem;
+  padding-top: 1px;
+  padding-bottom: 1px;
 }
 
 .px-1 {
-  padding-left: .25rem;
-  padding-right: .25rem;
+  padding-left: 1px;
+  padding-right: 1px;
 }
 
 .py-2 {
@@ -2934,13 +2934,13 @@ video {
 }
 
 .py-3 {
-  padding-top: .75rem;
-  padding-bottom: .75rem;
+  padding-top: 3px;
+  padding-bottom: 3px;
 }
 
 .px-3 {
-  padding-left: .75rem;
-  padding-right: .75rem;
+  padding-left: 3px;
+  padding-right: 3px;
 }
 
 .py-4 {
@@ -3140,19 +3140,19 @@ video {
 }
 
 .pt-1 {
-  padding-top: .25rem;
+  padding-top: 1px;
 }
 
 .pr-1 {
-  padding-right: .25rem;
+  padding-right: 1px;
 }
 
 .pb-1 {
-  padding-bottom: .25rem;
+  padding-bottom: 1px;
 }
 
 .pl-1 {
-  padding-left: .25rem;
+  padding-left: 1px;
 }
 
 .pt-2 {
@@ -3172,19 +3172,19 @@ video {
 }
 
 .pt-3 {
-  padding-top: .75rem;
+  padding-top: 3px;
 }
 
 .pr-3 {
-  padding-right: .75rem;
+  padding-right: 3px;
 }
 
 .pb-3 {
-  padding-bottom: .75rem;
+  padding-bottom: 3px;
 }
 
 .pl-3 {
-  padding-left: .75rem;
+  padding-left: 3px;
 }
 
 .pt-4 {
@@ -4109,6 +4109,14 @@ video {
   font-style: normal;
 }
 
+body {
+  font-size: 18px;
+  font-family: UnderwoodChampionRegular;
+  line-height: 24px;
+  font-weight: 400;
+  background-image: url('/assets/images/bg.png');
+}
+
 h1 {
   font-size: 32px;
   margin-top: 50px;
@@ -4116,10 +4124,10 @@ h1 {
 }
 
 a {
-  padding-top: 15px;
-  padding-right: 35px;
-  padding-bottom: 8px;
-  padding-left: 10px;
+  padding-top: 3px;
+  padding-right: 2px;
+  padding-bottom: 1px;
+  padding-left: 0;
   text-decoration: underline;
 }
 
@@ -4150,7 +4158,12 @@ p {
 }
 
 #writings-list a {
+  padding-top: 15px;
+  padding-right: 35px;
+  padding-bottom: 8px;
+  padding-left: 10px;
   text-decoration: none;
+  border-radius: 3px;
 }
 
 @media (min-width: 640px) {
@@ -6305,7 +6318,7 @@ p {
   }
 
   .sm\:p-1 {
-    padding: .25rem;
+    padding: 1px;
   }
 
   .sm\:p-2 {
@@ -6313,7 +6326,7 @@ p {
   }
 
   .sm\:p-3 {
-    padding: .75rem;
+    padding: 3px;
   }
 
   .sm\:p-4 {
@@ -6399,13 +6412,13 @@ p {
   }
 
   .sm\:py-1 {
-    padding-top: .25rem;
-    padding-bottom: .25rem;
+    padding-top: 1px;
+    padding-bottom: 1px;
   }
 
   .sm\:px-1 {
-    padding-left: .25rem;
-    padding-right: .25rem;
+    padding-left: 1px;
+    padding-right: 1px;
   }
 
   .sm\:py-2 {
@@ -6419,13 +6432,13 @@ p {
   }
 
   .sm\:py-3 {
-    padding-top: .75rem;
-    padding-bottom: .75rem;
+    padding-top: 3px;
+    padding-bottom: 3px;
   }
 
   .sm\:px-3 {
-    padding-left: .75rem;
-    padding-right: .75rem;
+    padding-left: 3px;
+    padding-right: 3px;
   }
 
   .sm\:py-4 {
@@ -6625,19 +6638,19 @@ p {
   }
 
   .sm\:pt-1 {
-    padding-top: .25rem;
+    padding-top: 1px;
   }
 
   .sm\:pr-1 {
-    padding-right: .25rem;
+    padding-right: 1px;
   }
 
   .sm\:pb-1 {
-    padding-bottom: .25rem;
+    padding-bottom: 1px;
   }
 
   .sm\:pl-1 {
-    padding-left: .25rem;
+    padding-left: 1px;
   }
 
   .sm\:pt-2 {
@@ -6657,19 +6670,19 @@ p {
   }
 
   .sm\:pt-3 {
-    padding-top: .75rem;
+    padding-top: 3px;
   }
 
   .sm\:pr-3 {
-    padding-right: .75rem;
+    padding-right: 3px;
   }
 
   .sm\:pb-3 {
-    padding-bottom: .75rem;
+    padding-bottom: 3px;
   }
 
   .sm\:pl-3 {
-    padding-left: .75rem;
+    padding-left: 3px;
   }
 
   .sm\:pt-4 {
@@ -9731,7 +9744,7 @@ p {
   }
 
   .md\:p-1 {
-    padding: .25rem;
+    padding: 1px;
   }
 
   .md\:p-2 {
@@ -9739,7 +9752,7 @@ p {
   }
 
   .md\:p-3 {
-    padding: .75rem;
+    padding: 3px;
   }
 
   .md\:p-4 {
@@ -9825,13 +9838,13 @@ p {
   }
 
   .md\:py-1 {
-    padding-top: .25rem;
-    padding-bottom: .25rem;
+    padding-top: 1px;
+    padding-bottom: 1px;
   }
 
   .md\:px-1 {
-    padding-left: .25rem;
-    padding-right: .25rem;
+    padding-left: 1px;
+    padding-right: 1px;
   }
 
   .md\:py-2 {
@@ -9845,13 +9858,13 @@ p {
   }
 
   .md\:py-3 {
-    padding-top: .75rem;
-    padding-bottom: .75rem;
+    padding-top: 3px;
+    padding-bottom: 3px;
   }
 
   .md\:px-3 {
-    padding-left: .75rem;
-    padding-right: .75rem;
+    padding-left: 3px;
+    padding-right: 3px;
   }
 
   .md\:py-4 {
@@ -10051,19 +10064,19 @@ p {
   }
 
   .md\:pt-1 {
-    padding-top: .25rem;
+    padding-top: 1px;
   }
 
   .md\:pr-1 {
-    padding-right: .25rem;
+    padding-right: 1px;
   }
 
   .md\:pb-1 {
-    padding-bottom: .25rem;
+    padding-bottom: 1px;
   }
 
   .md\:pl-1 {
-    padding-left: .25rem;
+    padding-left: 1px;
   }
 
   .md\:pt-2 {
@@ -10083,19 +10096,19 @@ p {
   }
 
   .md\:pt-3 {
-    padding-top: .75rem;
+    padding-top: 3px;
   }
 
   .md\:pr-3 {
-    padding-right: .75rem;
+    padding-right: 3px;
   }
 
   .md\:pb-3 {
-    padding-bottom: .75rem;
+    padding-bottom: 3px;
   }
 
   .md\:pl-3 {
-    padding-left: .75rem;
+    padding-left: 3px;
   }
 
   .md\:pt-4 {
@@ -13157,7 +13170,7 @@ p {
   }
 
   .lg\:p-1 {
-    padding: .25rem;
+    padding: 1px;
   }
 
   .lg\:p-2 {
@@ -13165,7 +13178,7 @@ p {
   }
 
   .lg\:p-3 {
-    padding: .75rem;
+    padding: 3px;
   }
 
   .lg\:p-4 {
@@ -13251,13 +13264,13 @@ p {
   }
 
   .lg\:py-1 {
-    padding-top: .25rem;
-    padding-bottom: .25rem;
+    padding-top: 1px;
+    padding-bottom: 1px;
   }
 
   .lg\:px-1 {
-    padding-left: .25rem;
-    padding-right: .25rem;
+    padding-left: 1px;
+    padding-right: 1px;
   }
 
   .lg\:py-2 {
@@ -13271,13 +13284,13 @@ p {
   }
 
   .lg\:py-3 {
-    padding-top: .75rem;
-    padding-bottom: .75rem;
+    padding-top: 3px;
+    padding-bottom: 3px;
   }
 
   .lg\:px-3 {
-    padding-left: .75rem;
-    padding-right: .75rem;
+    padding-left: 3px;
+    padding-right: 3px;
   }
 
   .lg\:py-4 {
@@ -13477,19 +13490,19 @@ p {
   }
 
   .lg\:pt-1 {
-    padding-top: .25rem;
+    padding-top: 1px;
   }
 
   .lg\:pr-1 {
-    padding-right: .25rem;
+    padding-right: 1px;
   }
 
   .lg\:pb-1 {
-    padding-bottom: .25rem;
+    padding-bottom: 1px;
   }
 
   .lg\:pl-1 {
-    padding-left: .25rem;
+    padding-left: 1px;
   }
 
   .lg\:pt-2 {
@@ -13509,19 +13522,19 @@ p {
   }
 
   .lg\:pt-3 {
-    padding-top: .75rem;
+    padding-top: 3px;
   }
 
   .lg\:pr-3 {
-    padding-right: .75rem;
+    padding-right: 3px;
   }
 
   .lg\:pb-3 {
-    padding-bottom: .75rem;
+    padding-bottom: 3px;
   }
 
   .lg\:pl-3 {
-    padding-left: .75rem;
+    padding-left: 3px;
   }
 
   .lg\:pt-4 {
@@ -16583,7 +16596,7 @@ p {
   }
 
   .xl\:p-1 {
-    padding: .25rem;
+    padding: 1px;
   }
 
   .xl\:p-2 {
@@ -16591,7 +16604,7 @@ p {
   }
 
   .xl\:p-3 {
-    padding: .75rem;
+    padding: 3px;
   }
 
   .xl\:p-4 {
@@ -16677,13 +16690,13 @@ p {
   }
 
   .xl\:py-1 {
-    padding-top: .25rem;
-    padding-bottom: .25rem;
+    padding-top: 1px;
+    padding-bottom: 1px;
   }
 
   .xl\:px-1 {
-    padding-left: .25rem;
-    padding-right: .25rem;
+    padding-left: 1px;
+    padding-right: 1px;
   }
 
   .xl\:py-2 {
@@ -16697,13 +16710,13 @@ p {
   }
 
   .xl\:py-3 {
-    padding-top: .75rem;
-    padding-bottom: .75rem;
+    padding-top: 3px;
+    padding-bottom: 3px;
   }
 
   .xl\:px-3 {
-    padding-left: .75rem;
-    padding-right: .75rem;
+    padding-left: 3px;
+    padding-right: 3px;
   }
 
   .xl\:py-4 {
@@ -16903,19 +16916,19 @@ p {
   }
 
   .xl\:pt-1 {
-    padding-top: .25rem;
+    padding-top: 1px;
   }
 
   .xl\:pr-1 {
-    padding-right: .25rem;
+    padding-right: 1px;
   }
 
   .xl\:pb-1 {
-    padding-bottom: .25rem;
+    padding-bottom: 1px;
   }
 
   .xl\:pl-1 {
-    padding-left: .25rem;
+    padding-left: 1px;
   }
 
   .xl\:pt-2 {
@@ -16935,19 +16948,19 @@ p {
   }
 
   .xl\:pt-3 {
-    padding-top: .75rem;
+    padding-top: 3px;
   }
 
   .xl\:pr-3 {
-    padding-right: .75rem;
+    padding-right: 3px;
   }
 
   .xl\:pb-3 {
-    padding-bottom: .75rem;
+    padding-bottom: 3px;
   }
 
   .xl\:pl-3 {
-    padding-left: .75rem;
+    padding-left: 3px;
   }
 
   .xl\:pt-4 {
