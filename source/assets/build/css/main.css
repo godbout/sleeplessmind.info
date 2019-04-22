@@ -2910,7 +2910,7 @@ video {
 }
 
 .p-20 {
-  padding: 5rem;
+  padding: 20px;
 }
 
 .p-24 {
@@ -3076,13 +3076,13 @@ video {
 }
 
 .py-20 {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .px-20 {
-  padding-left: 5rem;
-  padding-right: 5rem;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .py-24 {
@@ -3374,19 +3374,19 @@ video {
 }
 
 .pt-20 {
-  padding-top: 5rem;
+  padding-top: 20px;
 }
 
 .pr-20 {
-  padding-right: 5rem;
+  padding-right: 20px;
 }
 
 .pb-20 {
-  padding-bottom: 5rem;
+  padding-bottom: 20px;
 }
 
 .pl-20 {
-  padding-left: 5rem;
+  padding-left: 20px;
 }
 
 .pt-24 {
@@ -6449,7 +6449,7 @@ p {
   }
 
   .sm\:p-20 {
-    padding: 5rem;
+    padding: 20px;
   }
 
   .sm\:p-24 {
@@ -6615,13 +6615,13 @@ p {
   }
 
   .sm\:py-20 {
-    padding-top: 5rem;
-    padding-bottom: 5rem;
+    padding-top: 20px;
+    padding-bottom: 20px;
   }
 
   .sm\:px-20 {
-    padding-left: 5rem;
-    padding-right: 5rem;
+    padding-left: 20px;
+    padding-right: 20px;
   }
 
   .sm\:py-24 {
@@ -6913,19 +6913,19 @@ p {
   }
 
   .sm\:pt-20 {
-    padding-top: 5rem;
+    padding-top: 20px;
   }
 
   .sm\:pr-20 {
-    padding-right: 5rem;
+    padding-right: 20px;
   }
 
   .sm\:pb-20 {
-    padding-bottom: 5rem;
+    padding-bottom: 20px;
   }
 
   .sm\:pl-20 {
-    padding-left: 5rem;
+    padding-left: 20px;
   }
 
   .sm\:pt-24 {
@@ -9917,7 +9917,7 @@ p {
   }
 
   .md\:p-20 {
-    padding: 5rem;
+    padding: 20px;
   }
 
   .md\:p-24 {
@@ -10083,13 +10083,13 @@ p {
   }
 
   .md\:py-20 {
-    padding-top: 5rem;
-    padding-bottom: 5rem;
+    padding-top: 20px;
+    padding-bottom: 20px;
   }
 
   .md\:px-20 {
-    padding-left: 5rem;
-    padding-right: 5rem;
+    padding-left: 20px;
+    padding-right: 20px;
   }
 
   .md\:py-24 {
@@ -10381,19 +10381,19 @@ p {
   }
 
   .md\:pt-20 {
-    padding-top: 5rem;
+    padding-top: 20px;
   }
 
   .md\:pr-20 {
-    padding-right: 5rem;
+    padding-right: 20px;
   }
 
   .md\:pb-20 {
-    padding-bottom: 5rem;
+    padding-bottom: 20px;
   }
 
   .md\:pl-20 {
-    padding-left: 5rem;
+    padding-left: 20px;
   }
 
   .md\:pt-24 {
@@ -13385,7 +13385,7 @@ p {
   }
 
   .lg\:p-20 {
-    padding: 5rem;
+    padding: 20px;
   }
 
   .lg\:p-24 {
@@ -13551,13 +13551,13 @@ p {
   }
 
   .lg\:py-20 {
-    padding-top: 5rem;
-    padding-bottom: 5rem;
+    padding-top: 20px;
+    padding-bottom: 20px;
   }
 
   .lg\:px-20 {
-    padding-left: 5rem;
-    padding-right: 5rem;
+    padding-left: 20px;
+    padding-right: 20px;
   }
 
   .lg\:py-24 {
@@ -13849,19 +13849,19 @@ p {
   }
 
   .lg\:pt-20 {
-    padding-top: 5rem;
+    padding-top: 20px;
   }
 
   .lg\:pr-20 {
-    padding-right: 5rem;
+    padding-right: 20px;
   }
 
   .lg\:pb-20 {
-    padding-bottom: 5rem;
+    padding-bottom: 20px;
   }
 
   .lg\:pl-20 {
-    padding-left: 5rem;
+    padding-left: 20px;
   }
 
   .lg\:pt-24 {
@@ -16853,7 +16853,7 @@ p {
   }
 
   .xl\:p-20 {
-    padding: 5rem;
+    padding: 20px;
   }
 
   .xl\:p-24 {
@@ -17019,13 +17019,13 @@ p {
   }
 
   .xl\:py-20 {
-    padding-top: 5rem;
-    padding-bottom: 5rem;
+    padding-top: 20px;
+    padding-bottom: 20px;
   }
 
   .xl\:px-20 {
-    padding-left: 5rem;
-    padding-right: 5rem;
+    padding-left: 20px;
+    padding-right: 20px;
   }
 
   .xl\:py-24 {
@@ -17317,19 +17317,19 @@ p {
   }
 
   .xl\:pt-20 {
-    padding-top: 5rem;
+    padding-top: 20px;
   }
 
   .xl\:pr-20 {
-    padding-right: 5rem;
+    padding-right: 20px;
   }
 
   .xl\:pb-20 {
-    padding-bottom: 5rem;
+    padding-bottom: 20px;
   }
 
   .xl\:pl-20 {
-    padding-left: 5rem;
+    padding-left: 20px;
   }
 
   .xl\:pt-24 {
