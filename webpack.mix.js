@@ -1,3 +1,5 @@
+/* global path */
+
 let mix = require('laravel-mix');
 let build = require('./tasks/build.js');
 
@@ -19,6 +21,9 @@ mix.js('source/_assets/js/main.js', 'js')
     require('tailwindcss')
   ])
   .purgeCss({
+    globs: [
+      path.join(__dirname, 'config.php')
+    ],
     folders: ['source']
   })
   .version();
