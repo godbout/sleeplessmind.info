@@ -6,8 +6,8 @@
 
 @font-face {
     font-family: 'UnderwoodChampionRegular';
-    src: url('/assets/fonts/underwood_champion-webfont.woff') format('woff');
-    src: url('/assets/fonts/underwood_champion-webfont.eot'),
+    src: url('/assets/fonts/underwood_champion-webfont.woff') format('woff'),
+        url('/assets/fonts/underwood_champion-webfont.eot'),
         url('/assets/fonts/underwood_champion-webfont.eot?#iefix') format('embedded-opentype'),
         url('/assets/fonts/underwood_champion-webfont.ttf') format('truetype'),
         url('/assets/fonts/underwood_champion-webfont.svg#UnderwoodChampionRegular') format('svg');
