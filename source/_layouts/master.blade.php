@@ -12,7 +12,10 @@
         <link rel="manifest" href="/assets/favicons/manifest.json">
         <link rel="mask-icon" href="/assets/favicons/safari-pinned-tab.svg" color="#000000">
     </head>
-    <body>
+    <body
+        class="text-normal font-body leading-24 font-normal"
+        style="background-image: url('/assets/images/bg.png')"
+    >
         @include('_partials.header')
 
         <section class="max-w-xl mx-auto my-0">
