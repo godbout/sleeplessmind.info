@@ -1,7 +1,20 @@
-<script>
-  let writings = @json($writings->map(function ($writing) {
-    return $writing->getUrl() . '/';
-  })->values());
+---
+permalink: random/index.php
+---
+<?php
+    $urls = $writings->map(function ($writing) {
+        return "'{$writing->getUrl()}/'";
+    });
 
-  window.location = writings[Math.floor(Math.random() * writings.length)];
-</script>;
+    $urls = implode(",\r\n    ", $urls->toArray());
+
+    echo <<<EOT
+<?php
+
+\$urls = [
+    $urls
+];
+
+header('Location: ' . \$urls[array_rand(\$urls)], true, 303);
+
+EOT;
