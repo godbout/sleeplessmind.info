@@ -12,7 +12,7 @@ permalink: random/index.php
 <?php
 
 \$urls = [
-    $urls
+    'https://sleeplessmind.info/writings/3/'
 ];
 
 header('Location: ' . \$urls[array_rand(\$urls)], true, 303);
