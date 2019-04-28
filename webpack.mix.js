@@ -16,7 +16,6 @@ mix.webpackConfig({
 });
 
 mix.js('source/_assets/js/main.js', 'js')
-  .extract(['timeago.js'])
   .postCss('source/_assets/css/main.css', 'css', [
     require('tailwindcss')
   ])
