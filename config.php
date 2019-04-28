@@ -2,7 +2,7 @@
 
 return [
     'production' => false,
-    'baseUrl' => '',
+    'baseUrl' => 'https://sleeplessmind.info',
     'collections' => [
         'writings' => [
             'extends' => '_layouts.writing',
