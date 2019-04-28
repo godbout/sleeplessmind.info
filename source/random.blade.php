@@ -6,7 +6,7 @@ permalink: random/index.php
         return "'{$writing->getUrl()}/'";
     });
 
-    $urls = implode(",\r\n    ", $urls->toArray());
+    $urls = implode(',' . PHP_EOL . '    ', $urls->toArray());
 
     echo <<<EOT
 <?php
