@@ -3,7 +3,7 @@ permalink: random/index.php
 ---
 <?php
     $urls = $writings->map(function ($writing) {
-        return "'{$writing->getUrl()}'";
+        return "'{$writing->getUrl()}/'";
     });
 
     $urls = implode(",\r\n    ", $urls->toArray());
