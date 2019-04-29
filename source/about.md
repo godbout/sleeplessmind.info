@@ -12,7 +12,7 @@ More importantly (to me), all the dates that you can find here are relative to t
 
 I believe it is important for this page to be as atemporal as possible. I always find it annoying when I read something and I have no idea what the dates are referring to. It makes me feel disconnected from what is being said, from the content. I cannot trust it. I do NOT want you to experience that here.
 
-All the other information on this page has been updated to reflect my situation as of December 2018.
+All the other information on this page has been updated to reflect my situation as of May 2019.
 
 # About
 
