@@ -12,7 +12,7 @@ More importantly (to me), all the dates that you can find here are relative to t
 
 I believe it is important for this page to be as atemporal as possible. I always find it annoying when I read something and I have no idea what the dates are referring to. It makes me feel disconnected from what is being said, from the content. I cannot trust it. I do NOT want you to experience that here.
 
-All the other information on this page has been updated to reflect my situation as of May 2019.
+All the other information on this page has been updated to reflect my situation as of February 2020.
 
 # About
 
@@ -38,11 +38,11 @@ I used to pay my bills by working in a [University](http://www.usj.edu.mo/en/) f
 
 You can find me on my personal [Twitter](http://twitter.com/#!/godbout). I don't share a lot on there but when I do it's about psychology, cooking, art, education, rock climbing, nature and other things that inspire me. No dick pics, promise.
 
-I also have a personal Facebook account and almost everything I post there is made public because why not. My username is [Dacoconutz Brothers](https://www.facebook.com/dacoconutz.brothers) because also why not.
+<span style="text-decoration: line-through;">I also have a personal Facebook account and almost everything I post there is made public because why not. My username is [Dacoconutz Brothers](https://www.facebook.com/dacoconutz.brothers) because also why not.</span> Personal Facebook account gone because why have one? If you want to keep in touch, drop an email. If you're nice you'll get my phone number too.
 
-And of course you can also follow me on [Instagram](https://www.instagram.com/ki_yom/) before Facebook shuts it down.
+<span style="text-decoration: line-through;">And of course you can also follow me on [Instagram](https://www.instagram.com/ki_yom/) before Facebook shuts it down.</span> That one's gone too. Come get some life with me in person.
 
-Or drop me a nice and sweet email: [&#103;&#117;&#105;&#108;&#108;&#064;&#115;&#108;&#101;&#101;&#112;&#108;&#101;&#115;&#115;&#109;&#105;&#110;&#100;&#046;&#105;&#110;&#102;&#111;](&#109;&#097;&#105;&#108;&#116;&#111;:&#103;&#117;&#105;&#108;&#108;&#064;&#115;&#108;&#101;&#101;&#112;&#108;&#101;&#115;&#115;&#109;&#105;&#110;&#100;&#046;&#105;&#110;&#102;&#111;)
+You can drop me a nice and sweet email here: [&#103;&#117;&#105;&#108;&#108;&#064;&#115;&#108;&#101;&#101;&#112;&#108;&#101;&#115;&#115;&#109;&#105;&#110;&#100;&#046;&#105;&#110;&#102;&#111;](&#109;&#097;&#105;&#108;&#116;&#111;:&#103;&#117;&#105;&#108;&#108;&#064;&#115;&#108;&#101;&#101;&#112;&#108;&#101;&#115;&#115;&#109;&#105;&#110;&#100;&#046;&#105;&#110;&#102;&#111;)
 
 There's now also a [contact](/contact) page so that you can facebook/tweet/google/instagram/pinterest [me](/) and follow the writings wherever you like.
 
