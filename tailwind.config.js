@@ -1,4 +1,7 @@
 module.exports = {
+  purge: [
+    './build_*/**/*.html'
+  ],
   theme: {
     fontFamily: {
       'body': 'UnderwoodChampionRegular'
