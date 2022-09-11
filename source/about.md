@@ -42,7 +42,7 @@ You can find me on my personal [Twitter](http://twitter.com/#!/godbout). I don't
 
 <span style="text-decoration: line-through;">And of course you can also follow me on [Instagram](https://www.instagram.com/ki_yom/) before Facebook shuts it down.</span> That one's gone too. Come get some life with me in person.
 
-You can drop me a nice and sweet email here: [&#103;&#117;&#105;&#108;&#108;&#064;&#115;&#108;&#101;&#101;&#112;&#108;&#101;&#115;&#115;&#109;&#105;&#110;&#100;&#046;&#105;&#110;&#102;&#111;](&#109;&#097;&#105;&#108;&#116;&#111;:&#103;&#117;&#105;&#108;&#108;&#064;&#115;&#108;&#101;&#101;&#112;&#108;&#101;&#115;&#115;&#109;&#105;&#110;&#100;&#046;&#105;&#110;&#102;&#111;)
+You can drop me a nice and sweet email here: [&#103;&#117;&#105;&#108;&#108;&#064;&#115;&#108;&#101;&#101;&#112;&#108;&#101;&#115;&#115;&#109;&#105;&#110;&#100;&#046;&#099;&#111;&#109;&#046;&#109;&#111;](mailto:&#103;&#117;&#105;&#108;&#108;&#064;&#115;&#108;&#101;&#101;&#112;&#108;&#101;&#115;&#115;&#109;&#105;&#110;&#100;&#046;&#099;&#111;&#109;&#046;&#109;&#111;)
 
 There's now also a [contact](/contact) page so that you can facebook/tweet/google/instagram/pinterest [me](/) and follow the writings wherever you like.
 
