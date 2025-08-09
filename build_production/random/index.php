@@ -1,6 +1,7 @@
 <?php
 
 $urls = [
+    'https://sleeplessmind.info/writings/the-path/',
     'https://sleeplessmind.info/writings/lost-loss/',
     'https://sleeplessmind.info/writings/you-have-only-one/',
     'https://sleeplessmind.info/writings/amor/',
