@@ -7,7 +7,7 @@
         "prod": "mix --production"
     },
     "devDependencies": {
-        "laravel-mix": "^6.0.39",
+        "laravel-mix": "^6.0",
         "laravel-mix-jigsaw": "^2.1",
         "postcss": "^8.4.14",
         "postcss-import": "^14.0.0",
